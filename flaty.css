@@ -99,6 +99,8 @@ display: none !important;
 
 #TabsToolbar .tabbrowser-tab[pinned][titlechanged]:not([selected="true"]) > .tab-stack > .tab-content {
     background: #58626d !important;
+    margin-bottom: -4px !important;
+    padding-bottom: 4px !important;
 }
 
 #TabsToolbar .tabs-newtab-button:hover,
@@ -207,7 +209,7 @@ display: none !important;
 #PanelUI-button {
 
     background-position: 100% 0, calc(100% - 1px) 0, calc(100% - 2px) 0;
-    background: url('http://i.imgur.com/kCfBvsQ.png') !important;
+    background: url('http://i.imgur.com/4gT6in4.png') !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
     box-shadow: none !important;
@@ -227,7 +229,7 @@ display: none !important;
 #PanelUI-button:hover {
     opacity: 1 !important;
     box-shadow: none !important;
-    background: url('http://i.imgur.com/eBUtFNg.png') !important;
+    background: url('http://i.imgur.com/QQJgNZu.png') !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
 }
@@ -257,7 +259,7 @@ display: none !important;
 
 /*downloads*/
 #downloads-button {
-    background: url('http://i.imgur.com/h2tNLhV.png') !important;
+    background: url('http://i.imgur.com/ntcxsaB.png') !important;
     background-repeat: no-repeat  !important;
     background-position: center !important;
     opacity: 1 !important;
@@ -279,7 +281,7 @@ display: none !important;
 #downloads-button:hover {
     opacity: 1 !important;
     box-shadow: none !important;
-    background: url('http://i.imgur.com/f9qULY2.png') !important;
+    background: url('http://i.imgur.com/guZAV8X.png') !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
 }
@@ -287,10 +289,10 @@ display: none !important;
 /* Roomy Bookmarks Toolbar button */
 
 #rbtlibbutton {
-		list-style-image: url("http://i.imgur.com/3Gw2ZNJ.png") !important;
+		list-style-image: url("http://i.imgur.com/DPk7v4c.png") !important;
 }
 	
 /* Remove Scrollbar */
-#content browser{margin-right:-16px !important;
-overflow-y:scroll; overflow-x:hidden;}
+/*#content browser{margin-right:-16px !important;
+overflow-y:scroll; overflow-x:hidden;}*/
 
